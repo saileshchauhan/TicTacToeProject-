@@ -1,0 +1,13 @@
+D:\Visual_Studio\Tic_Tac_Toe_Project\bin\Debug\netcoreapp3.1\Tic_Tac_Toe_Project.exe
+D:\Visual_Studio\Tic_Tac_Toe_Project\bin\Debug\netcoreapp3.1\Tic_Tac_Toe_Project.deps.json
+D:\Visual_Studio\Tic_Tac_Toe_Project\bin\Debug\netcoreapp3.1\Tic_Tac_Toe_Project.runtimeconfig.json
+D:\Visual_Studio\Tic_Tac_Toe_Project\bin\Debug\netcoreapp3.1\Tic_Tac_Toe_Project.runtimeconfig.dev.json
+D:\Visual_Studio\Tic_Tac_Toe_Project\bin\Debug\netcoreapp3.1\Tic_Tac_Toe_Project.dll
+D:\Visual_Studio\Tic_Tac_Toe_Project\bin\Debug\netcoreapp3.1\Tic_Tac_Toe_Project.pdb
+D:\Visual_Studio\Tic_Tac_Toe_Project\obj\Debug\netcoreapp3.1\Tic_Tac_Toe_Project.csprojAssemblyReference.cache
+D:\Visual_Studio\Tic_Tac_Toe_Project\obj\Debug\netcoreapp3.1\Tic_Tac_Toe_Project.AssemblyInfoInputs.cache
+D:\Visual_Studio\Tic_Tac_Toe_Project\obj\Debug\netcoreapp3.1\Tic_Tac_Toe_Project.AssemblyInfo.cs
+D:\Visual_Studio\Tic_Tac_Toe_Project\obj\Debug\netcoreapp3.1\Tic_Tac_Toe_Project.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\Tic_Tac_Toe_Project\obj\Debug\netcoreapp3.1\Tic_Tac_Toe_Project.dll
+D:\Visual_Studio\Tic_Tac_Toe_Project\obj\Debug\netcoreapp3.1\Tic_Tac_Toe_Project.pdb
+D:\Visual_Studio\Tic_Tac_Toe_Project\obj\Debug\netcoreapp3.1\Tic_Tac_Toe_Project.genruntimeconfig.cache
